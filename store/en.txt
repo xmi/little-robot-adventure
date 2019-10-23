@@ -1,11 +1,11 @@
-Title:
+Title (max 50 characters):
 Little Robot Adventure
 
-Short description:
+Short description (max 80 characters):
 Little Robot is going on a big adventure, and needs your help! Can you guide him through this strange new world? 🕹️🤖
 
 
-Full description:
+Full description (max 4000 characters):
 Little Robot Adventure is a classical 2D platformer, do you have classical 2D platformer skills?
 
 Born into a dark laboratory, Little Robot must find his way in this strange new world.
